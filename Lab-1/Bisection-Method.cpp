@@ -5,6 +5,7 @@ double f(double x)
 {
     return x*x*x - x - 2;
 }
+
 void bisection(double a, double b)
 {
     if (f(a) * f(b) >= 0)
@@ -59,3 +60,4 @@ int main()
 // How does the bisection method compare to other root-finding methods?
 // The bisection method is slower compared to methods like Newton's method or secant method, but it is more robust and simple to implement, especially for 
 // functions where derivatives are difficult to compute.
+
