@@ -1,6 +1,8 @@
 # CSE-226 - Numerical Methods Sessional 
 
 This repository contains my lab work for the **Numerical Methods Sessional** course (CSE226). 
+I will be updating it regularly with the tasks and algorithm implementations completed in each lab session.
+
 The purpose of this lab is to implement and explore various numerical methods for solving mathematical problems computationally.
 
 ## Methods Implemented
