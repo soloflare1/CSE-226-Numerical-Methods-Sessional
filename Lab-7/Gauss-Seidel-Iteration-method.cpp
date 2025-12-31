@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ #include <bits/stdc++.h>
 using namespace std;
 
 #define tol 0.0001
@@ -72,3 +72,4 @@ int main()
 
     return 0;
 }
+
