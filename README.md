@@ -1,4 +1,4 @@
-# CSE-226 - Numerical Methods Sessional 
+## CSE-226 - Numerical Methods Sessional 
 
 This repository contains my lab work for the **Numerical Methods Sessional** course (CSE226). 
 I will be updating it regularly with the tasks completed in each lab session.
@@ -14,3 +14,9 @@ The purpose of this lab is to implement and explore various numerical methods fo
 6. **Gauss-Jordan Elimination** 
 7. **Gauss-Seidel Method** 
 
+# License
+
+MIT License — Copyright (c) 2025 Nosratee Jahan Naba. 
+
+# Contributing
+If you find this useful, consider giving it a star on GitHub. Feel free to fork.
